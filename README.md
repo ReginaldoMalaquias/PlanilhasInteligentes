@@ -1,12 +1,5 @@
-# PlanilhasInteligentes
-Planilhas Inteligentes com Microsoft Excel
-
->
-
-
 <p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
 
@@ -41,7 +34,7 @@ Utilizei uma esteira de ferramentas para o processo criativo.
 - Microsoft Copilot consultar alguns textos
 
 ## 📚 Materiais
-- [GitHub] ()
+- [GitHub] (https://github.com/ReginaldoMalaquias/PlanilhasInteligentes/blob/main/output/Projeto.xlsx)
 
 
 ## 👨‍💻 Pessoa
