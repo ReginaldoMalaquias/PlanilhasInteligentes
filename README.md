@@ -4,9 +4,6 @@
 -------
 
 
-<p align="center">
-    preview do Planilhas
-</p>
 
 <div align="center">
     <audio src="output/Projeto.xlsx" controls title="Planilhas criadas"></audio>
